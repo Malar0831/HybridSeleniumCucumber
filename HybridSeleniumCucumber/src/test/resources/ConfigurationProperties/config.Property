@@ -1,0 +1,13 @@
+browser=chrome
+url=https://opensource-demo.orangehrmlive.com/
+username=Admin
+pwd=admin123
+usernameadmin=Admin
+userroll=Admin
+employeename=Linda Anderson
+status=Enabled
+#DataBase connection
+dburl=jdbc:mysql://localhost:3306/sample?useSSL=false
+dbusername=root
+dbpasswort=Mukil123
+dbquery= select username, password from OrangeHRM;

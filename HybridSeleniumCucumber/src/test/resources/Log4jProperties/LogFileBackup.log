@@ -1,0 +1,296 @@
+2020-08-28 11:10:49,090 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-28 11:10:54,805 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-28 11:10:58,212 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-28 11:10:58,213 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-28 11:11:01,066 [main] INFO com.baseClass.Library - Login Successful
+2020-08-28 11:11:01,738 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-28 11:11:03,069 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-28 11:32:50,033 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-28 11:32:55,593 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-28 11:32:58,913 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-28 11:32:58,913 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-28 11:33:02,751 [main] INFO com.baseClass.Library - Login Successful
+2020-08-28 11:33:05,001 [main] INFO com.baseClass.Library - Details entered
+2020-08-28 11:33:05,712 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 10:21:31,391 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 10:21:35,847 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 10:21:39,116 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 10:21:39,117 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 10:21:39,387 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 10:21:41,314 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 10:21:42,011 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 10:25:22,628 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 10:25:26,686 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 10:25:29,795 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 10:25:29,796 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 10:25:30,007 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 10:25:32,075 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 10:25:32,766 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 11:02:22,780 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 11:02:27,041 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 11:02:30,232 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 11:02:30,233 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 11:02:30,474 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 11:02:32,696 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 11:02:33,355 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 11:32:00,939 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 11:32:05,129 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 11:32:08,260 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 11:32:08,261 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 11:32:08,497 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 11:32:10,883 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 11:32:11,542 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 11:39:05,876 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 11:39:09,927 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 11:39:13,035 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 11:39:13,036 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 11:50:18,209 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 11:50:22,223 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 11:50:25,682 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 11:50:25,682 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 12:29:16,010 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 12:29:20,008 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 12:29:23,146 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 12:29:23,147 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:13:28,802 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:13:32,734 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:13:35,857 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:13:35,858 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:21:14,098 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:21:17,965 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:21:21,377 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:21:21,378 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:21:21,393 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:21:24,487 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:21:27,552 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:21:27,553 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:21:27,759 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 13:21:29,714 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 13:21:30,395 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 13:21:30,402 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:21:33,500 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:21:36,556 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:21:36,557 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:21:36,728 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 13:21:37,802 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 13:21:38,508 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 13:26:11,320 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:26:15,183 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:26:18,377 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:26:18,377 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:26:18,414 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:26:21,478 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:26:24,518 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:26:24,519 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:26:24,739 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 13:26:26,844 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 13:26:27,479 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 13:26:27,488 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:26:30,575 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:26:33,723 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:26:33,723 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:26:33,891 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 13:26:35,010 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 13:26:35,636 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 13:33:23,791 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:33:27,702 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:33:31,280 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:33:31,280 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:33:31,298 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:33:34,368 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:33:37,503 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:33:37,503 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:33:37,692 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 13:33:37,701 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:33:40,792 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:33:43,836 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:33:43,836 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:33:44,002 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 13:34:15,291 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:34:19,107 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:34:22,243 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:34:22,244 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:34:22,260 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:34:25,365 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:34:28,553 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:34:28,554 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:34:28,745 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 13:34:28,751 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:34:31,845 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:34:35,276 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:34:35,276 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:34:35,444 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 13:36:52,095 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:36:55,962 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:36:59,018 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:36:59,018 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:36:59,033 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:37:02,079 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:37:05,302 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:37:05,302 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:37:05,497 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 13:37:05,505 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:37:08,596 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:37:11,634 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:37:11,635 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:37:11,803 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 13:37:46,514 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:37:50,332 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:37:53,391 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:37:53,392 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:37:53,406 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:37:56,511 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:37:59,526 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:37:59,527 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:37:59,723 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 13:37:59,730 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:38:02,798 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:38:05,859 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:38:05,860 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:38:06,021 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 13:41:12,490 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:41:16,371 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:41:19,498 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:41:19,499 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:46:10,642 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:46:14,529 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:46:17,792 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:46:17,792 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:48:27,089 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:48:30,939 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:48:34,187 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:48:34,187 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:51:59,404 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:52:03,254 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:52:06,321 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:52:06,321 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:54:22,126 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:54:25,995 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:54:29,086 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:54:29,087 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:56:42,477 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:56:46,315 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:56:49,430 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:56:49,431 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 13:57:53,177 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 13:57:57,055 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 13:58:00,117 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 13:58:00,117 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 14:00:11,566 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 14:00:15,422 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 14:00:18,591 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 14:00:18,592 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 14:00:18,789 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 14:00:20,867 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 14:00:21,560 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 14:00:57,384 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 14:01:01,312 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 14:01:04,603 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 14:01:04,604 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 14:01:04,813 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 14:01:07,177 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 14:01:07,846 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 14:04:17,889 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 14:04:21,702 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 14:04:24,836 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 14:04:24,836 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 14:04:25,018 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 14:04:27,289 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 14:04:27,985 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 14:04:28,003 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 14:04:31,038 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 14:04:34,333 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 14:04:34,334 [main] INFO com.baseClass.Library - Browser Launched and navigate to URL
+2020-08-31 14:04:34,484 [main] INFO com.baseClass.Library - Login successful
+2020-08-31 14:04:36,897 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 14:04:37,579 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 14:04:37,586 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 14:04:40,630 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 14:04:43,642 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 14:04:43,643 [main] INFO com.baseClass.Library - Browser Launched and navigate to URL
+2020-08-31 14:04:43,801 [main] INFO com.baseClass.Library - Login successful
+2020-08-31 14:04:44,890 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 14:04:45,542 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 14:10:59,767 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 14:11:03,545 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 14:11:06,696 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 14:11:06,696 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 14:11:06,886 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 14:11:09,199 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 14:11:09,866 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 14:11:09,890 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 14:11:12,939 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 14:11:15,984 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 14:11:15,984 [main] INFO com.baseClass.Library - Browser Launched and navigate to URL
+2020-08-31 14:11:16,131 [main] INFO com.baseClass.Library - Login successful
+2020-08-31 14:11:18,449 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 14:11:19,074 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 14:11:19,085 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 14:11:22,140 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 14:11:25,148 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 14:11:25,149 [main] INFO com.baseClass.Library - Browser Launched and navigate to URL
+2020-08-31 14:11:25,306 [main] INFO com.baseClass.Library - Login successful
+2020-08-31 14:11:26,452 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 14:11:27,089 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 15:18:55,082 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 15:18:59,216 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 15:19:02,413 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 15:19:02,414 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-08-31 15:19:02,602 [main] INFO com.baseClass.Library - Login Successful
+2020-08-31 15:19:04,511 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 15:19:05,714 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 15:19:05,735 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 15:19:08,832 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 15:19:11,840 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 15:19:11,841 [main] INFO com.baseClass.Library - Browser Launched and navigate to URL
+2020-08-31 15:19:11,981 [main] INFO com.baseClass.Library - Login successful
+2020-08-31 15:19:13,719 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 15:19:14,420 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-08-31 15:19:14,428 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-08-31 15:19:17,517 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-08-31 15:19:20,813 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-08-31 15:19:20,813 [main] INFO com.baseClass.Library - Browser Launched and navigate to URL
+2020-08-31 15:19:20,963 [main] INFO com.baseClass.Library - Login successful
+2020-08-31 15:19:22,010 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-08-31 15:19:22,645 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-09-01 11:35:51,200 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-09-01 11:35:55,032 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-01 11:35:58,789 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-09-01 11:35:58,789 [main] INFO com.baseClass.Library - Browser Lanuched and navigate to url
+2020-09-01 11:35:58,962 [main] INFO com.baseClass.Library - Login Successful
+2020-09-01 11:36:00,050 [main] INFO com.baseClass.Library - Take ScreenShot
+2020-09-01 11:36:00,668 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-09-01 11:36:00,671 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-09-01 11:36:03,731 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-01 11:36:07,262 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-09-01 11:36:07,262 [main] INFO com.baseClass.Library - Browser Launched and navigate to URL
+2020-09-01 11:36:07,426 [main] INFO com.baseClass.Library - Login successful
+2020-09-01 11:36:08,410 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-09-10 11:42:43,890 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-09-10 11:42:51,784 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-10 11:42:54,977 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-09-10 11:42:54,977 [main] INFO com.baseClass.Library - Browser Launched and navigate to URL
+2020-09-10 11:42:57,478 [main] INFO com.baseClass.Library - Login successful
+2020-09-10 11:42:58,412 [main] INFO com.baseClass.Library - Take Screen Shot
+2020-09-10 11:43:04,082 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-09-10 11:47:20,911 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-09-10 11:47:25,900 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-10 11:47:29,073 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-09-10 11:47:29,073 [main] INFO com.baseClass.Library - Browser Launched and navigate to URL
+2020-09-10 11:47:30,253 [main] INFO com.baseClass.Library - Login successful
+2020-09-10 11:47:30,754 [main] INFO com.baseClass.Library - Take Screen Shot
+2020-09-10 11:47:36,424 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-09-10 11:50:57,971 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-09-10 11:51:02,877 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-10 11:51:05,889 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-09-10 11:51:05,889 [main] INFO com.baseClass.Library - Browser Launched and navigate to URL
+2020-09-10 11:51:07,047 [main] INFO com.baseClass.Library - Login successful
+2020-09-10 11:51:07,659 [main] INFO com.baseClass.Library - Take Screen Shot
+2020-09-10 11:51:13,317 [main] INFO com.baseClass.Library - Exiting the application and closing the browser
+2020-09-10 11:54:41,692 [main] INFO com.baseClass.Library - Starting with Browser Set Up
+2020-09-10 11:54:46,823 [main] INFO com.baseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-10 11:54:50,077 [main] INFO com.baseClass.Library - Launched the OrangeHRM Application
+2020-09-10 11:54:50,078 [main] INFO com.baseClass.Library - Browser Launched and navigate to URL
+2020-09-10 11:54:51,224 [main] INFO com.baseClass.Library - Login successful
+2020-09-10 11:54:51,699 [main] INFO com.baseClass.Library - Take Screen Shot
+2020-09-10 11:54:57,317 [main] INFO com.baseClass.Library - Exiting the application and closing the browser

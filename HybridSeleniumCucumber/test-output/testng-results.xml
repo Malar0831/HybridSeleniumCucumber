@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15694" started-at="2020-09-10T11:54:41 PDT" finished-at="2020-09-10T11:54:57 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15694" started-at="2020-09-10T11:54:41 PDT" finished-at="2020-09-10T11:54:57 PDT">
+      <class name="com.testCases.DBLoginTestCase">
+        <test-method status="PASS" signature="stratUp()[pri:0, instance:com.testCases.DBLoginTestCase@f31c0c6]" name="stratUp" is-config="true" duration-ms="8429" started-at="2020-09-10T11:54:41 PDT" finished-at="2020-09-10T11:54:50 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stratUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.testCases.DBLoginTestCase@f31c0c6]" name="login" duration-ms="1093" started-at="2020-09-10T11:54:50 PDT" finished-at="2020-09-10T11:54:51 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testCases.DBLoginTestCase@f31c0c6]" name="close" is-config="true" duration-ms="5950" started-at="2020-09-10T11:54:51 PDT" finished-at="2020-09-10T11:54:57 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.testCases.DBLoginTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
